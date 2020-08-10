@@ -10,7 +10,7 @@ body,p,ul,li,input{
 }
 
 body{
-	/**background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/bg.gif);**/
+	/**background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/bg.gif);**/
 	background-color:#FAFAFA;
 	
 }
@@ -98,7 +98,7 @@ img{
 	padding-left: 120px;
 	float:right;
 	margin-top:20px;
-	/*background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/hao_logo.gif) left center no-repeat;*/
+	/*background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/hao_logo.gif) left center no-repeat;*/
 }
 
 	.search input{
@@ -113,7 +113,7 @@ img{
 		border: 1px solid #3782bf;
 		border-left: 3px solid #3782bf;
 		outline: none;
-		background: #fafdff url(https://cdn.jsdelivr.net/gh/geocdn/p/images/hao_searchlogo2.gif) 5px 6px no-repeat;
+		background: #fafdff url(https://cdn.jsdelivr.net/gh/gstatic/p/images/hao_searchlogo2.gif) 5px 6px no-repeat;
 	}
 	
 	.search input.srch_text2{
@@ -126,7 +126,7 @@ img{
 		line-height: 20px;
 		color: #fff;
 		border: 0;
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/button_bg.gif) no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/button_bg.gif) no-repeat;
 		cursor: pointer;
 	}
 	
@@ -180,11 +180,11 @@ img{
 				width: 56px;
 				height: 85px;
 				margin-bottom: 5px;
-				background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon_graybg.gif) left top no-repeat;
+				background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon_graybg.gif) left top no-repeat;
 			}
 			
 			ul.icon_list li a.icon_box:hover{
-				background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon_bg.gif) left top no-repeat;
+				background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon_bg.gif) left top no-repeat;
 			}
 			
 				ul.icon_list li .icon_box img{
@@ -256,103 +256,103 @@ img{
 	}
 	
 	.category .video{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_01.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_01.gif) 6px center no-repeat;
 	}
 	
 	.category .novel{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_02.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_02.gif) 6px center no-repeat;
 	}
 
 	.category .game{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_03.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_03.gif) 6px center no-repeat;
 	}
 	
 	.category .news{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_04.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_04.gif) 6px center no-repeat;
 	}
 	
 	.category .war{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_05.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_05.gif) 6px center no-repeat;
 	}
 	
 	.category .music{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_06.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_06.gif) 6px center no-repeat;
 	}
 	
 	.category .shopping{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_07.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_07.gif) 6px center no-repeat;
 	}
 	
 	.category .friend{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_08.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_08.gif) 6px center no-repeat;
 	}
 	
 	.category .women{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_09.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_09.gif) 6px center no-repeat;
 	}
 	
 	.category .community{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_10.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_10.gif) 6px center no-repeat;
 	}
 	
 	.category .group{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_11.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_11.gif) 6px center no-repeat;
 	}
 	
 	.category .bank{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_12.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_12.gif) 6px center no-repeat;
 	}
 	
 	.category .financial{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_13.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_13.gif) 6px center no-repeat;
 	}
 	
 	.category .car{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_14.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_14.gif) 6px center no-repeat;
 	}
 	
 	.category .digital{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_15.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_15.gif) 6px center no-repeat;
 	}
 	
 	.category .mobile{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_16.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_16.gif) 6px center no-repeat;
 	}
 	
 	.category .mail{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_17.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_17.gif) 6px center no-repeat;
 	}
 	
 	.category .picture{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_18.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_18.gif) 6px center no-repeat;
 	}
 	
 	.category .sports{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_19.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_19.gif) 6px center no-repeat;
 	}
 	
 	.category .health{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_20.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_20.gif) 6px center no-repeat;
 	}
 	
 	.category .tour{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_21.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_21.gif) 6px center no-repeat;
 	}
 	
 	.category .hr{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_22.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_22.gif) 6px center no-repeat;
 	}
 	
 	.category .house{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_23.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_23.gif) 6px center no-repeat;
 	}
 	
 	.category .coolSite{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_24.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_24.gif) 6px center no-repeat;
 	}
 
 	.category .caipiao{
-		background: url(https://cdn.jsdelivr.net/gh/geocdn/p/images/icon/icon_25.gif) 6px center no-repeat;
+		background: url(https://cdn.jsdelivr.net/gh/gstatic/p/images/icon/icon_25.gif) 6px center no-repeat;
 	}
 	
 .footer{
